@@ -1,5 +1,7 @@
 package LacosCondicionais;
 
+import java.util.Scanner;
+
 public class lacosCondicionais6 {
 
 	public static void main(String[] args) {
