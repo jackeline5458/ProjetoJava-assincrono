@@ -2,7 +2,7 @@ package sessaoassincrona;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class VariaveisOperadores1 {
 
 	public static void main(String[] args) {
 	 	
