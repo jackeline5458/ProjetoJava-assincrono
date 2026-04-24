@@ -1,6 +1,6 @@
-package LacosCondicionais;
+package lacosCondicionais;
 
-public class lacosCondicionais3 {
+public class lacosCondicionais2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
